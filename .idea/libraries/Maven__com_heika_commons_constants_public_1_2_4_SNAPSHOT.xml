@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.heika:commons-constants-public:1.2.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/heika/commons-constants-public/1.2.4-SNAPSHOT/commons-constants-public-1.2.4-20151127.070800-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/heika/commons-constants-public/1.2.4-SNAPSHOT/commons-constants-public-1.2.4-20151127.070800-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/heika/commons-constants-public/1.2.4-SNAPSHOT/commons-constants-public-1.2.4-20151127.070800-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

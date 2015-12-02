@@ -12,10 +12,20 @@
     <artifactId>dubbo-client</artifactId>
 
     <dependencies>
+        <!--<dependency>-->
+            <!--<groupId>dubbo-learn</groupId>-->
+            <!--<artifactId>dubbo-service</artifactId>-->
+            <!--<version>1.0-SNAPSHOT</version>-->
+        <!--</dependency>-->
         <dependency>
-            <groupId>dubbo-learn</groupId>
-            <artifactId>dubbo-service</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>com.heika</groupId>
+            <artifactId>commons-constants-public</artifactId>
+            <version>1.2.4-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.heika</groupId>
+            <artifactId>heika-verify-api</artifactId>
+            <version>1.0.3-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
